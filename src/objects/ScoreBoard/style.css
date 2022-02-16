@@ -3,4 +3,7 @@
     justify-content:space-evenly;
     padding-top: 2.5rem;
     padding-bottom: 2.5rem;
+    align-items: center;
+    position: relative;
+    top: 12px;
 }
